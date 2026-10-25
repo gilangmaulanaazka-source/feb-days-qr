@@ -1,4 +1,4 @@
-const CACHE_NAME = "febdays2026-fusion-v1";
+const CACHE_NAME = "febdays2026-fusion-v2";
 const ASSETS = [
   "./","./index.html","./styles.css","./config.js","./app.js",
   "./manifest.webmanifest","./assets/icon.svg",
