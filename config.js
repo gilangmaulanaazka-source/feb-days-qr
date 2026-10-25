@@ -3,7 +3,7 @@ window.APP_CONFIG = {
   EVENT_ID: "FEB-DAYS-2026",
   EVENT_NAME: "FEB Days 2026",
   EVENT_TAGLINE: "Fusion: Bridging Ideas Building Unity",
-  EVENT_DATE: "Tanggal kegiatan akan diumumkan",
+  EVENT_DATE: "23 November-29 November",
   ADMIN_PIN: "2468",
   STUDY_PROGRAMS: [
     "Manajemen",
